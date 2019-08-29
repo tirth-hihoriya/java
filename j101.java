@@ -7,8 +7,8 @@ class j101
     System.out.println(gs.get(0));
     System.out.println(gs.get(1)); 
     public static void main(String[] args) {
-
+        wweee
        
-         
+
     
 }}
